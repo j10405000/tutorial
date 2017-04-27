@@ -1,3 +1,4 @@
 monkey knows git commands
 add a line
 commit log the status of index
+pull get the content of remote repository
